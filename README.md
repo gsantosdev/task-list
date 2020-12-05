@@ -1,6 +1,6 @@
 # tasklist
 
-A new Flutter application.
+Uma aplicação sobre lista de tarefas.
 
 ## Getting Started
 
